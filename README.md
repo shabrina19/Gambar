@@ -1,3 +1,3 @@
-# Picture for Sentiment Analysis of Online Learning Using Naive Bayes Classifier Optimization with Adaboost
+# Picture Projects
 
-This repository contain picture for Sentiment Analysis of Online Learning Using Naive Bayes Classifier Optimization with Adaboost project
+This repository contain picture for github project
